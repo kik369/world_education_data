@@ -1,5 +1,3 @@
-world_education_data
-
 # World Educational Data Analysis
 
 ## Overview
